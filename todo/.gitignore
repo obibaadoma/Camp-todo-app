@@ -8,6 +8,8 @@
 
 # testing
 /coverage
+/removable
+
 
 # next.js
 /.next/
